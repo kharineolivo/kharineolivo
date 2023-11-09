@@ -1,16 +1,181 @@
-### boas vindas ao meu perfil 👋
+<h1>Sobre a Barbearia Alura</h1>
 
-<!--
-**kharineolivo/kharineolivo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Localizada no coração da cidade a Barbearia Alura traz para o mercado o que há de melhor para o seu cabelo e barba. 
+Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.</p>
 
-Here are some ideas to get you started:
+<p>Nossa missão é: "Proporcionar auto-estima e qualidade de vida aos clientes".</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->.. .
+<p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. 
+O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+<h1>Sobre a Barbearia Alura</h1>
+
+<p>Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. 
+Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.</p>
+
+<p><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
+
+<p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. 
+O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+<h1>Sobre a Barbearia Alura</h1>
+
+<p>Localizada no coração da cidade a Barbearia Alura traz para o mercado o que há de melhor para o seu cabelo e barba. 
+Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.</p>
+
+<p>Nossa missão é: "Proporcionar auto-estima e qualidade de vida aos clientes".</p>
+
+<p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. 
+O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+<h1>Sobre a Barbearia Alura</h1>
+
+<p>Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. 
+Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.</p>
+
+<p><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
+
+<p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. 
+O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+<!DOCTYPE html>
+<html lang="pt-br">
+    <h1>Sobre a Barbearia Alura</h1>
+
+    <p>Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. 
+    Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.</p>
+
+    <p><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
+
+    <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. 
+    O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+
+</html>
+<!DOCTYPE html>
+<html lang="pt-br">
+    <meta charset="UTF-8">
+    <title>Barbearia Alura</title>
+
+    <h1>Sobre a Barbearia Alura</h1>
+
+    <p>Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. 
+    Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.</p>
+
+    <p><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
+
+    <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. 
+    O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+</html>
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Barbearia Alura</title>
+    </head>
+    <body>
+        <h1>Sobre a Barbearia Alura</h1>
+
+        <p>Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. 
+        Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.</p>
+
+        <p><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
+
+        <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. 
+        O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+    </body>
+</html>
+ <link rel="stylesheet" href="style.css">
+ <!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Barbearia Alura</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+</body>
+</html>
+  <p><strong>Título do Livro 1</strong> - <em>Autor 1</em></p>
+  <p><strong>Título do Livro 2</strong> - <em>Autor 2</em></p>
+  <p><strong>Título do Livro 3</strong> - <em>Autor 3</em></p>
+  body {
+    background: #CCCCCC
+}
+
+p {
+    text-align: center;
+}
+
+em strong {
+    color: #FF0000;
+}
+<link rel="stylesheet" href="style.css">
+<h1 style="text-align: center">Sobre a Barbearia Alura</h1>
+<p style="font-size: 20px"><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Barbearia Alura</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <h1 style="text-align: center">Sobre a Barbearia Alura</h1>
+
+        <p>Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. 
+        Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.</p>
+
+        <p style="font-size: 20px"><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
+
+        <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. 
+        O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+    </body>
+</html>
+<p id="missao">O Sítio do Pica-pau Amarelo é um clássico da literatura infantil brasileira. A obra apresenta as aventuras de Emília, Pedrinho e Narizinho em um mundo mágico repleto de personagens fantásticos, como a boneca de pano Emília, o sabugo de milho Visconde de Sabugosa e a bruxa Cuca.</p>
+<img src="banner.jpg">
+<img crs="banner.jpg"> 
+<img id="banner" src="naruto-banner.jpg">
+<h1>One Piece Brasil</h1>
+<img id="banner" src="banner.jpg">
+<p id="missao"><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
+h1 {
+    text-align: center
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px
+}
+#banner {
+    width: 100%;
+}
+body {
+    background: #CCCCCC
+}
+
+#banner {
+    width: 100%;
+}
+
+h1 {
+    text-align: center
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px
+}
+
+em strong {
+    color: #FF0000;
+}
+<ul>
+    <li class="itens">Monkey D. Luffy</li>
+    <li>Tony Tony Chopper</li>
+    <li>Roronoa Zoro</li>
+    <li class="itens">Nami</li>
+</ul>
